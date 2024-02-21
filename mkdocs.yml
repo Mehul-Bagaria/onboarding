@@ -1,0 +1,8 @@
+site_name: Avkalan Labs
+site_url: 
+
+nav:
+  - Home: index.md
+  - About: about.md
+
+theme: readthedocs
