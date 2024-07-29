@@ -1,6 +1,6 @@
 ## Whom to Ask for General and Project-Related Queries
 
-For general queries, you can reach out to the HR or IT support team at Avkalan Labs. For project-related queries, your first point of contact should be your project manager or the project's Point of Contact (PoC). If you're unsure who to ask, you can post your question in the relevant Slack channel (e.g., #help or #general) to get guidance from your colleagues.
+For general queries, you can reach out to the HR or IT support team at Avkalan Labs. For project-related queries, your first point of contact should be your project manager or the project's Point of Contact (PoC). If you're unsure who to ask, you can post your question in the relevant Slack channel (e.g., `#help` or `#general`) to get guidance from your colleagues.
 
 ## How to Take Screenshots and Share Them
 
