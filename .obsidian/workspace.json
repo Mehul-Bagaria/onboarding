@@ -11,9 +11,12 @@
             "id": "6e3beac6d96f5dc5",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "write_here/docs/2_FAQs/FAQs.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -83,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "write_here/docs/2_FAQs/FAQs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "write_here/docs/2_FAQs/FAQs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "write_here/docs/2_FAQs/FAQs.md"
+              }
             }
           },
           {
@@ -170,25 +177,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6e3beac6d96f5dc5",
+  "active": "01f9f9c6e9f233c4",
   "lastOpenFiles": [
-    "write_here/docs/0_home/overview_of_Eigenplus.md",
-    "write_here/docs/3_use_system/use_system.md",
-    "write_here/docs/5_conclusions/conclusions.md",
-    "write_here/docs/2_system_setup_installations/1_lesson.md",
-    "write_here/docs/1_system_overview/system_at_eigenplus.md",
-    "write_here/docs/4_FAQs/faqs.md",
-    "docs/use_system/use_system/index.html",
-    "docs/use_system/use_system",
-    "docs/use_system",
-    "docs/system_overview/system_at_eigenplus/index.html",
-    "docs/system_overview/system_at_eigenplus",
-    "write_here/docs/5_conclusions",
+    "docs/img/favicon.ico",
+    "docs/3_conclusions/conclusions/index.html",
+    "docs/3_conclusions/conclusions",
+    "docs/3_conclusions",
+    "docs/2_FAQs/faqs/index.html",
+    "docs/2_FAQs/faqs",
+    "docs/2_FAQs",
+    "write_here/docs/1_system_overview/2_use_system.md",
+    "write_here/docs/1_system_overview/1_system_setup.md",
+    "write_here/docs/1_system_overview/0_system_at_avkalan_labs.md",
+    "write_here/docs/2_FAQs/FAQs.md",
+    "write_here/docs/3_conclusions/conclusions.md",
+    "write_here/docs/0_home/0_overview_of_Avkalan-Labs.md",
+    "docs/1_system_overview/2_use_system/index.html",
+    "docs/1_system_overview/2_use_system",
+    "docs/1_system_overview/1_system_setup/index.html",
+    "docs/1_system_overview/1_system_setup",
     "write_here/docs/index.md",
-    "write_here/docs/4_FAQs",
-    "docs/home/overview_of_Eigenplus/index.html",
-    "docs/home/overview_of_Eigenplus",
-    "write_here/docs/3_use_system",
     "write_here/docs/home/vision.md",
     "write_here/docs/home/overview-.md",
     "write_here/docs/home/mission.md",
