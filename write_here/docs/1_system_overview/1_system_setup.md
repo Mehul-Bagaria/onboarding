@@ -1,8 +1,8 @@
-# **System Setup and Installations**
+# System Setup and Installations
 
 Setting up your system is essential for a smooth work experience. In this section, we'll guide you through installing key tools like Slack, Whimsical, Git, GitHub, and Obsidian, which are crucial for communication, collaboration, and project management at Avkalan Labs.
 
-## **Installing Slack**
+## Installing Slack
 
 1. **Download Slack**: Visit the [Slack website](https://slack.com/downloads) and download the appropriate version for your operating system.
 2. **Install Slack**: Open the downloaded file and follow the installation instructions.
@@ -10,7 +10,7 @@ Setting up your system is essential for a smooth work experience. In this sectio
 4. **Join the Eigenplus Workspace**: Use the invitation link provided by your team or search for the Eigenplus workspace within Slack.
 5. **Customize Your Profile**: Set up your profile with your name, role, expertise, and a profile picture to help your team recognize you.
 
-## **Installing Git and GitHub**
+## Installing Git and GitHub
 
 1. **Download Git**: Visit the [Git website](https://git-scm.com/downloads) and download the latest version for your operating system.
 2. **Install Git**: Run the downloaded file and follow the installation instructions. During the setup, choose the default options unless you have specific preferences.
@@ -20,7 +20,7 @@ Setting up your system is essential for a smooth work experience. In this sectio
 6. **Install GitHub Desktop**: Run the downloaded file and follow the installation instructions. Sign in with your GitHub account to connect your repositories.
 7. **Clone a Repository**: To start working on a project, clone its repository from GitHub using GitHub Desktop or the command: `bash git clone <https://github.com/username/repository.git`>
 
-## **Installing Obsidian**
+## Installing Obsidian
 
 1. **Download Obsidian**: Visit the [Obsidian website](https://obsidian.md/download) and download the installer for your operating system.
 2. **Install Obsidian**: Open the downloaded file and follow the installation instructions.

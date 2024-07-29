@@ -1,4 +1,4 @@
-# Overview of the system at Avkalan
+# Overview of the system
 
 At Avkalan Labs, we understand that success is not just about setting ambitious goals, but also about having robust systems in place to achieve them. We firmly believe in the adage, "We don't rise to the level of our goals; we fall to the level of our systems." This philosophy underscores the importance of a well-structured and cohesive system in guiding our collective efforts towards common objectives. Our systems are designed to enable effective communication, efficient tracking, and rapid growth, ensuring that every member of our team is aligned and working in harmony towards our shared vision.
 
