@@ -2,7 +2,7 @@
 
 In this section, we'll explore the practical aspects of utilizing our key systems at Avkalan Labs. You'll learn how to navigate and leverage tools like Slack, Obsidian, Git, and GitHub to enhance communication, collaboration, and project management.
 
-# **Slack**
+## **Slack**
 
 Slack is a dynamic communication platform that streamlines team collaboration and information sharing. It organizes conversations into channels, making it easy to find discussions on specific topics or projects. With its intuitive messaging features, you can easily send direct messages, create threads to keep conversations organized, and share files seamlessly.
 
@@ -60,3 +60,22 @@ Obsidian is a powerful note-taking and knowledge management application that use
 5. **Collaborate and commit changes**: Work on your notes and files in Obsidian, then use GitHub Desktop to commit and push changes to the repository. This ensures that everyone in the team has access to the latest updates and can contribute to the project.
 
 By integrating Obsidian with GitHub, you can enhance collaboration on projects, combining the power of note-taking and version control for effective project management. Whether it's notes or any other writing content, everything in Obsidian is written in Markdown. Knowing the basics of Markdown is crucial to use Obsidian effectively, as it allows you to format your notes quickly and efficiently.
+
+You can go through the following short tutorial to learn the basics of Obsidian-
+
+
+
+### Markdown the language of internet
+
+Markdown is a lightweight markup language used for formatting text. It's the language used in Obsidian for creating and editing notes.
+
+**Here are some basics:**
+
+- **Headers**: Use `#` for headers. For example, `# Header 1`, `## Header 2`, `### Header 3`.
+- **Bold**: Use `**text**` or `__text__` to make text bold. For example, `**bold text**`.
+- **Italic**: Use `*text*` or `_text_` to italicize text. For example, `*italic text*`.
+- **Lists**: Use `-` or `*` for unordered lists, and `1.`, `2.`, `3.` for ordered lists.
+- **Links**: Use `[text](URL)` to create hyperlinks. For example, `[Google](https://www.google.com)`.
+- **Images**: Use `![alt text](image URL)` to insert images. For example, `![logo](https://example.com/logo.png)`.
+
+Learning Markdown is essential for using Obsidian effectively, as it allows you to format your notes quickly and efficiently. You can go through the following short tutorial to learn the basic syntax of the makrdowns - [Markdown Tutorial](https://www.markdowntutorial.com/)
