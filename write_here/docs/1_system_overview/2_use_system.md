@@ -97,6 +97,7 @@ GitHub is a platform for hosting Git repositories and collaborating on projects.
 - **Issues**: Use GitHub issues to track bugs, feature requests, and tasks. Assign issues to team members and track their progress.
 
 You can go through the following short tutorial to learn the basics of GitHub-
+[![Video Title](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=PQsJR8ci3J0&ab_channel=edureka%21"Watch the Video")
 
 
 
