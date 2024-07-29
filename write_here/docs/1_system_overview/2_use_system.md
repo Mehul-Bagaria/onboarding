@@ -29,25 +29,9 @@ Canvas is a feature in Slack that allows you to create and collaborate on docume
 - **Actionable Items**: Break down these milestones into actionable items for each day. This helps in organizing your tasks and keeping track of what needs to be done to reach your weekly milestones.
 - **Updating Canvas**: It's crucial to keep your Canvas consistently updated with any changes or progress in your actions and milestones. This ensures that you and your team are always on the same page and can adjust your plans as needed. By using the Canvas feature in Slack, you can effectively track your milestones, organize your tasks, and keep your team informed about your progress.
 
-### **How to Use GitHub and GitHub Desktop for Collaborative Projects**
 
-GitHub is a platform for hosting Git repositories and collaborating on projects.
 
-**Here's how to use GitHub and GitHub Desktop for collaboration:**
-
-- **Create a Repository**: Use the project template from “[](https://github.com/iitrabhi/project-template%E2%80%9D)[https://github.com/iitrabhi/project-template”](https://github.com/iitrabhi/project-template%E2%80%9D) to start a new research project. Make sure you are logged into your GitHub account to use the template. This repository will be the central location where your code is stored and managed.
-- **Clone the Repository**:
-    - Click on the `Use this template` button on the template repository page.
-    - Select `Create a new repository` and give your project a specific name.
-    - Open GitHub Desktop and choose `File` > `Clone Repository`.
-    - Select the newly created repository from the list.
-    - Choose a local path where you want to clone the repository.
-    - Click the `Clone` button to start cloning the repository.
-- **Collaborate**: Invite team members to collaborate on the repository. They can clone the repository, make changes, and push their commits.
-- **Pull Requests**: Use pull requests to propose changes to the codebase. Team members can review the changes, provide feedback, and merge the changes into the main branch.
-- **Issues**: Use GitHub issues to track bugs, feature requests, and tasks. Assign issues to team members and track their progress.
-
-# **Obsidian**
+## **Obsidian**
 
 Obsidian is a powerful note-taking and knowledge management application that uses Markdown for formatting. It allows you to create a network of interconnected notes, making it an ideal tool for organizing thoughts, ideas, and information. With its unique linking feature, you can easily navigate between related notes, creating a web of knowledge that grows over time.
 
@@ -79,3 +63,42 @@ Markdown is a lightweight markup language used for formatting text. It's the lan
 - **Images**: Use `![alt text](image URL)` to insert images. For example, `![logo](https://example.com/logo.png)`.
 
 Learning Markdown is essential for using Obsidian effectively, as it allows you to format your notes quickly and efficiently. You can go through the following short tutorial to learn the basic syntax of the makrdowns - [Markdown Tutorial](https://www.markdowntutorial.com/)
+
+## Git and GitHub
+
+Git is a version control system that tracks code changes and enables collaboration among developers. GitHub, built on Git, is a platform for hosting, reviewing, and managing code, offering features like pull requests and issue tracking. Together, they provide a comprehensive ecosystem for efficient and precise software development.
+
+### How to use Git/version control
+
+Git is a version control system that allows you to track changes in your code and collaborate with others.
+
+**Here's how to use Git for version control:** - **Initialize a Repository**: Start by creating a new directory for your project and initializing it as a Git repository using the command `git init`. - **Track Changes**: As you make changes to your files, use `git add` to stage them for commit, and `git commit` to save the changes to your repository's history. - **Branching**: Create branches using `git branch` to work on new features or bug fixes without affecting the main codebase. Switch between branches with `git checkout`. - **Merging**: Once your changes are complete, merge them back into the main branch using `git merge`. - **Viewing History**: Use `git log` to view the commit history and see what changes have been made.
+
+The following course gives a brief overview of the Version Control or Git -
+
+
+Once your course is complete try to make your first pull request here. [First Contribution](https://github.com/firstcontributions/first-contributions)
+### **How to Use GitHub and GitHub Desktop for Collaborative Projects**
+
+GitHub is a platform for hosting Git repositories and collaborating on projects.
+
+**Here's how to use GitHub and GitHub Desktop for collaboration:**
+
+- **Create a Repository**: Use the project template from “[](https://github.com/iitrabhi/project-template%E2%80%9D)[https://github.com/iitrabhi/project-template”](https://github.com/iitrabhi/project-template%E2%80%9D) to start a new research project. Make sure you are logged into your GitHub account to use the template. This repository will be the central location where your code is stored and managed.
+- **Clone the Repository**:
+    - Click on the `Use this template` button on the template repository page.
+    - Select `Create a new repository` and give your project a specific name.
+    - Open GitHub Desktop and choose `File` > `Clone Repository`.
+    - Select the newly created repository from the list.
+    - Choose a local path where you want to clone the repository.
+    - Click the `Clone` button to start cloning the repository.
+- **Collaborate**: Invite team members to collaborate on the repository. They can clone the repository, make changes, and push their commits.
+- **Pull Requests**: Use pull requests to propose changes to the codebase. Team members can review the changes, provide feedback, and merge the changes into the main branch.
+- **Issues**: Use GitHub issues to track bugs, feature requests, and tasks. Assign issues to team members and track their progress.
+
+You can go through the following short tutorial to learn the basics of GitHub-
+
+
+
+By using Git for version control and GitHub for collaboration, you can effectively manage your code and work together with your team on projects.
+
