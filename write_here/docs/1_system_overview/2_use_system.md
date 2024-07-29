@@ -1,12 +1,12 @@
-# **How to use the system**
+# How to use the system
 
 In this section, we'll explore the practical aspects of utilizing our key systems at Avkalan Labs. You'll learn how to navigate and leverage tools like Slack, Obsidian, Git, and GitHub to enhance communication, collaboration, and project management.
 
-## **Slack**
+## Slack
 
 Slack is a dynamic communication platform that streamlines team collaboration and information sharing. It organizes conversations into channels, making it easy to find discussions on specific topics or projects. With its intuitive messaging features, you can easily send direct messages, create threads to keep conversations organized, and share files seamlessly.
 
-### **How to use slack for communications**
+### How to use slack for communications
 
 At Avkalan Labs, we highly value teamwork and encourage the use of channels for communicating with your team members, regardless of the size of the task or query.
 
@@ -21,7 +21,7 @@ At Avkalan Labs, we highly value teamwork and encourage the use of channels for 
     - **Use Direct Messages**: For personal or private communications that don't require the attention of a whole group, use direct messages (DMs) to reach out to individual team members.
 - **Use Threads**: To keep conversations organized and avoid cluttering the main channel view, use threads to respond to specific messages. This keeps related messages grouped together and makes it easier to follow the conversation.
 
-### **What is Canvas in Slack and How to Use It**
+### What is Canvas in Slack and How to Use It
 
 Canvas is a feature in Slack that allows you to create and collaborate on documents directly within the platform. It's particularly useful for setting and tracking milestones to ensure that you're moving in the right direction toward your goals. Here's how to use Canvas in Slack for this purpose:
 
@@ -31,7 +31,7 @@ Canvas is a feature in Slack that allows you to create and collaborate on docume
 
 
 
-## **Obsidian**
+## Obsidian
 
 Obsidian is a powerful note-taking and knowledge management application that uses Markdown for formatting. It allows you to create a network of interconnected notes, making it an ideal tool for organizing thoughts, ideas, and information. With its unique linking feature, you can easily navigate between related notes, creating a web of knowledge that grows over time.
 
@@ -46,8 +46,7 @@ Obsidian is a powerful note-taking and knowledge management application that use
 By integrating Obsidian with GitHub, you can enhance collaboration on projects, combining the power of note-taking and version control for effective project management. Whether it's notes or any other writing content, everything in Obsidian is written in Markdown. Knowing the basics of Markdown is crucial to use Obsidian effectively, as it allows you to format your notes quickly and efficiently.
 
 You can go through the following short tutorial to learn the basics of Obsidian-
-
-
+[![Linking Your Thinking with Nick Milo](https://img.youtube.com/vi/QgbLb6QCK88/0.jpg)](https://www.youtube.com/watch?v=QgbLb6QCK88 "Watch the Video")
 
 ### Markdown the language of internet
 
@@ -78,7 +77,7 @@ The following course gives a brief overview of the Version Control or Git -
 
 
 Once your course is complete try to make your first pull request here. [First Contribution](https://github.com/firstcontributions/first-contributions)
-### **How to Use GitHub and GitHub Desktop for Collaborative Projects**
+### How to Use GitHub and GitHub Desktop for Collaborative Projects
 
 GitHub is a platform for hosting Git repositories and collaborating on projects.
 
@@ -97,8 +96,7 @@ GitHub is a platform for hosting Git repositories and collaborating on projects.
 - **Issues**: Use GitHub issues to track bugs, feature requests, and tasks. Assign issues to team members and track their progress.
 
 You can go through the following short tutorial to learn the basics of GitHub-
-[![Video Title](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=PQsJR8ci3J0&ab_channel=edureka%21"Watch the Video")
-
+[![Edureka Video](https://img.youtube.com/vi/PQsJR8ci3J0/0.jpg)](https://www.youtube.com/watch?v=PQsJR8ci3J0 "Watch the Video")
 
 
 By using Git for version control and GitHub for collaboration, you can effectively manage your code and work together with your team on projects.
